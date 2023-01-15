@@ -69,7 +69,7 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 
 # The server will initialize in the <http://localhost:5000>
-
+# Test the api in the <http://localhost:5000/>
 # it is recommended to use Virtual Environments (https://docs.python.org/3/tutorial/venv.html)
 ```
 
